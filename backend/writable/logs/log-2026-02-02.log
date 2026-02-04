@@ -1,0 +1,137 @@
+CRITICAL - 2026-02-02 05:04:45 --> Error: Class "Config\App\Filters\Cors" not found
+[Method: OPTIONS, Route: pdf/generate]
+in SYSTEMPATH\Filters\Filters.php on line 299.
+ 1 SYSTEMPATH\Filters\Filters.php(239): CodeIgniter\Filters\Filters->createFilter('Config\\App\\Filters\\Cors')
+ 2 SYSTEMPATH\Filters\Filters.php(360): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\Filters\Filters->runRequired('before')
+ 4 SYSTEMPATH\CodeIgniter.php(347): CodeIgniter\CodeIgniter->runRequiredBeforeFilters(Object(CodeIgniter\Filters\Filters))
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 05:07:50 --> Error: Class "Config\App\Filters\Cors" not found
+[Method: OPTIONS, Route: pdf/generate]
+in SYSTEMPATH\Filters\Filters.php on line 299.
+ 1 SYSTEMPATH\Filters\Filters.php(239): CodeIgniter\Filters\Filters->createFilter('Config\\App\\Filters\\Cors')
+ 2 SYSTEMPATH\Filters\Filters.php(360): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\Filters\Filters->runRequired('before')
+ 4 SYSTEMPATH\CodeIgniter.php(347): CodeIgniter\CodeIgniter->runRequiredBeforeFilters(Object(CodeIgniter\Filters\Filters))
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 05:07:56 --> Error: Class "Config\App\Filters\Cors" not found
+[Method: GET, Route: pdf/generate]
+in SYSTEMPATH\Filters\Filters.php on line 299.
+ 1 SYSTEMPATH\Filters\Filters.php(239): CodeIgniter\Filters\Filters->createFilter('Config\\App\\Filters\\Cors')
+ 2 SYSTEMPATH\Filters\Filters.php(360): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\Filters\Filters->runRequired('before')
+ 4 SYSTEMPATH\CodeIgniter.php(347): CodeIgniter\CodeIgniter->runRequiredBeforeFilters(Object(CodeIgniter\Filters\Filters))
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 05:09:11 --> Error: Class "Config\App\Filters\Cors" not found
+[Method: OPTIONS, Route: pdf/generate]
+in SYSTEMPATH\Filters\Filters.php on line 299.
+ 1 SYSTEMPATH\Filters\Filters.php(239): CodeIgniter\Filters\Filters->createFilter('Config\\App\\Filters\\Cors')
+ 2 SYSTEMPATH\Filters\Filters.php(360): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\Filters\Filters->runRequired('before')
+ 4 SYSTEMPATH\CodeIgniter.php(347): CodeIgniter\CodeIgniter->runRequiredBeforeFilters(Object(CodeIgniter\Filters\Filters))
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 05:13:06 --> Error: Class "Config\App\Filters\Cors" not found
+[Method: OPTIONS, Route: pdf/generate]
+in SYSTEMPATH\Filters\Filters.php on line 299.
+ 1 SYSTEMPATH\Filters\Filters.php(239): CodeIgniter\Filters\Filters->createFilter('Config\\App\\Filters\\Cors')
+ 2 SYSTEMPATH\Filters\Filters.php(360): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\Filters\Filters->runRequired('before')
+ 4 SYSTEMPATH\CodeIgniter.php(347): CodeIgniter\CodeIgniter->runRequiredBeforeFilters(Object(CodeIgniter\Filters\Filters))
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 05:13:22 --> Error: Class "Config\App\Filters\Cors" not found
+[Method: OPTIONS, Route: pdf/generate]
+in SYSTEMPATH\Filters\Filters.php on line 299.
+ 1 SYSTEMPATH\Filters\Filters.php(239): CodeIgniter\Filters\Filters->createFilter('Config\\App\\Filters\\Cors')
+ 2 SYSTEMPATH\Filters\Filters.php(360): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\Filters\Filters->runRequired('before')
+ 4 SYSTEMPATH\CodeIgniter.php(347): CodeIgniter\CodeIgniter->runRequiredBeforeFilters(Object(CodeIgniter\Filters\Filters))
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 05:15:53 --> Error: Undefined constant "Config\App"
+[Method: OPTIONS, Route: pdf/generate]
+in SYSTEMPATH\Config\Factories.php on line 236.
+ 1 SYSTEMPATH\Config\Factories.php(170): CodeIgniter\Config\Factories::createInstance('config', 'Config\\Filters', [])
+ 2 SYSTEMPATH\Config\Factories.php(189): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 3 SYSTEMPATH\Common.php(208): CodeIgniter\Config\Factories::get('config', 'Config\\Filters')
+ 4 SYSTEMPATH\Config\Services.php(295): config('Config\\Filters')
+ 5 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::filters(null, false)
+ 6 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 7 SYSTEMPATH\Config\Services.php(292): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 8 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::filters()
+ 9 SYSTEMPATH\CodeIgniter.php(345): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+10 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 08:22:35 --> ErrorException: Undefined property: stdClass::$supervisor
+[Method: POST, Route: pdf/generate]
+in APPPATH\Controllers\PdfController.php on line 105.
+ 1 APPPATH\Controllers\PdfController.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$supervisor', 'C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\app\\Controllers\\PdfController.php', 105)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PdfController->generate()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(68): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 08:24:02 --> ErrorException: Undefined variable $pdf
+[Method: POST, Route: pdf/generate]
+in APPPATH\Controllers\PdfController.php on line 12.
+ 1 APPPATH\Controllers\PdfController.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pdf', 'C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\app\\Controllers\\PdfController.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PdfController->generate()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(68): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 08:24:11 --> ErrorException: Undefined variable $pdf
+[Method: POST, Route: pdf/generate]
+in APPPATH\Controllers\PdfController.php on line 12.
+ 1 APPPATH\Controllers\PdfController.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pdf', 'C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\app\\Controllers\\PdfController.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PdfController->generate()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(68): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 08:26:08 --> ErrorException: Undefined property: stdClass::$itemNumber
+[Method: POST, Route: pdf/generate]
+in APPPATH\Controllers\PdfController.php on line 36.
+ 1 APPPATH\Controllers\PdfController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$itemNumber', 'C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\app\\Controllers\\PdfController.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PdfController->generate()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(68): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-02 08:26:14 --> ErrorException: Undefined property: stdClass::$itemNumber
+[Method: POST, Route: pdf/generate]
+in APPPATH\Controllers\PdfController.php on line 36.
+ 1 APPPATH\Controllers\PdfController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$itemNumber', 'C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\app\\Controllers\\PdfController.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PdfController->generate()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(68): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')

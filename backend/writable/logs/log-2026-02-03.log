@@ -1,0 +1,325 @@
+CRITICAL - 2026-02-03 08:05:39 --> ErrorException: Undefined array key "thead"
+[Method: POST, Route: pdf/generate]
+in VENDORPATH\tecnickcom\tcpdf\tcpdf.php on line 16732.
+ 1 VENDORPATH\tecnickcom\tcpdf\tcpdf.php(16732): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "thead"', 'C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\vendor\\tecnickcom\\tcpdf\\tcpdf.php', 16732)
+ 2 VENDORPATH\tecnickcom\tcpdf\tcpdf.php(17461): TCPDF->getHtmlDomArray('<table border="1" cellpadding="4" cellspacing="0" width="100%"><tr><td colspan="6" align="center" style="font-weight:bold; border-bottom:none;">&nbsp; Republic of the Philippines<br>&nbsp; POSITION DESCRIPTION FORM<br>&nbsp; DBM-CSC Form No. 1<br>&nbsp; <span style="font-size:10px;">(Revised Version No. 1, s. 2017)</span><marker style="font-size:0"/></td><td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">&nbsp; 1. POSITION TITLE (as approved by authorized agency)<br>&nbsp; <b>VERITATIS UT ERROR B</b><marker style="font-size:0"/></td></tr><tr><td colspan="6" style="border-top:none;"><marker style="font-size:0"/></td><td colspan="6" style="background-color:#d9d9d9;">3. SALARY GRADE<marker style="font-size:0"/></td><td>Ipsum ut est vitae<marker style="font-size:0"/></td><marker style="font-size:0"/></td></tr><tr><td colspan="12" style="font-weight:bold; background-color:#d9d9d9;">&nbsp; 4. FOR LOCAL GOVERNMENT POSITION, ENUMERATE GOVERNMENTAL UNIT AND CLASS<marker style="font-size:0"/></td></tr><tr><td colspan="4" style="border-right:none;">&nbsp; <span style="font-family:dejavusans;">☐</span> Province<br>&nbsp; <span style="font-family:dejavusans;">☐</span> City<br>&nbsp; <span style="font-family:dejavusans;">☐</span> Municipality<marker style="font-size:0"/></td><td colspan="4" style="border-left:none; border-right:none;">&nbsp; <span style="font-family:dejavusans;">☐</span> 1st Class<br>&nbsp; <span style="font-family:dejavusans;">☐</span> 2nd Class<br>&nbsp; <span style="font-family:dejavusans;">☑</span> 3rd Class<br>&nbsp; <span style="font-family:dejavusans;">☐</span> 4th Class<marker style="font-size:0"/></td><td colspan="4" style="border-left:none;">&nbsp; <span style="font-family:dejavusans;">☐</span> 5th Class<br>&nbsp; <span style="font-family:dejavusans;">☐</span> 6th Class<br>&nbsp; <span style="font-family:dejavusans;">☑</span> Special<marker style="font-size:0"/></td></tr><tr><td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">5. DEPARTMENT, CORPORATION OR AGENCY/LOCAL GOVERNMENT<br>&nbsp; <b>UT AD CUM PERSPICIAT</b><marker style="font-size:0"/></td><td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">6. BUREAU OR OFFICE<br>&nbsp; Quis et molestias qu<marker style="font-size:0"/></td></tr><tr><td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">7. DEPARTMENT / BRANCH / DIVISION<br>&nbsp; Consequatur expedita<marker style="font-size:0"/></td><td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">8. WORKSTATION / PLACE OF WORK<br>&nbsp; Sunt enim similique<marker style="font-size:0"/></td></tr><tr><td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">9. PRESENT APPROP ACT<br>&nbsp; Est qui in ducimus<marker style="font-size:0"/></td><td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">10. PREVIOUS APPROP ACT<br>&nbsp; Aut id illo dolore a<marker style="font-size:0"/></td><td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">11. SALARY AUTHORIZED<br>&nbsp; Saepe tempore exerc<marker style="font-size:0"/></td><td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">12. OTHER COMPENSATION<br>&nbsp; Tenetur nihil aut re<marker style="font-size:0"/></td></tr><tr><td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">13. POSITION TITLE OF IMMEDIATE SUPERVISOR<br>&nbsp; Qui velit est libero<marker style="font-size:0"/></td><td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">14. POSITION TITLE OF NEXT HIGHER SUPERVISOR<br>&nbsp; Id temporibus possim<marker style="font-size:0"/></td></tr><tr><td colspan="12" style="font-weight:bold; background-color:#d9d9d9;">&nbsp; 15. POSITION TITLE, AND ITEM OF THOSE DIRECTLY SUPERVISED<br>&nbsp; <span style="font-size:8px;">(if more than seven (7) list only by their item numbers and titles)</span><marker style="font-size:0"/></td></tr><tr align="center" style="font-weight:bold;"><td colspan="6">POSITION TITLE<marker style="font-size:0"/></td><td colspan="6">ITEM NUMBER<marker style="font-size:0"/></td></tr><tr><td colspan="6">Nulla ut consequuntu<marker style="font-size:0"/></td><td colspan="6">Nulla omnis dolor pr<marker style="font-size:0"/></td></tr><tr><td colspan="6"><marker style="font-size:0"/></td><td colspan="6"><marker style="font-size:0"/></td></tr><tr><td colspan="6"><marker style="font-size:0"/></td><td colspan="6"><marker style="font-size:0"/></td></tr><tr><td colspan="6"><marker style="font-size:0"/></td><td colspan="6"><marker style="font-size:0"/></td></tr><tr><td colspan="6"><marker style="font-size:0"/></td><td colspan="6"><marker style="font-size:0"/></td></tr><tr><td colspan="6"><marker style="font-size:0"/></td><td colspan="6"><marker style="font-size:0"/></td></tr><tr><td colspan="6"><marker style="font-size:0"/></td><td colspan="6"><marker style="font-size:0"/></td></tr><tr><td colspan="12">16. MACHINE, EQUIPMENT, TOOLS, ETC., USED REGULARLY<br>&nbsp; Minim corrupti ut s<marker style="font-size:0"/></td></tr><tr><td colspan="12" style="font-weight:bold; background-color:#d9d9d9;">17. CONTACTS / CLIENTS / STAKEHOLDERS<marker style="font-size:0"/></td></tr><tr><td colspan="6">&nbsp; <b>17a. Internal</b><br>&nbsp; Occasional: <span style="font-family:dejavusans;">☐</span> Executive/Managerial <span style="font-family:dejavusans;">☐</span> Supervisors <span style="font-family:dejavusans;">☐</span> Staff<br>&nbsp; Frequent: <span style="font-family:dejavusans;">☑</span> Executive/Managerial <span style="font-family:dejavusans;">☐</span> Supervisors <span style="font-family:dejavusans;">☐</span> Staff<marker style="font-size:0"/></td><td colspan="6">&nbsp; <b>17b. External</b><br>&nbsp; Occasional: <span style="font-family:dejavusans;">☑</span> Public <span style="font-family:dejavusans;">☐</span> Agencies ☐ Others<br>&nbsp; Frequent: <span style="font-family:dejavusans;">☑</span> Public <span style="font-family:dejavusans;">☐</span> Agencies ☐ Others<marker style="font-size:0"/></td></tr><tr><td colspan="12">18. WORKING CONDITION: <span style="font-family:dejavusans;">☑</span> Office Work <span style="font-family:dejavusans;">☑</span> Field Work<marker style="font-size:0"/></td></tr><tr><td colspan="12">19. BRIEF DESCRIPTION OF THE GENERAL FUNCTION OF THE UNIT OR SECTION<br>&nbsp; Impedit duis fugiat<marker style="font-size:0"/></td></tr></table><div align="right" style="font-size:7pt;">Page 1 of 2</div>')
+ 3 APPPATH\Controllers\PdfController.php(263): TCPDF->writeHTML('
+            <table border="1" cellpadding="4" cellspacing="0" width="100%">
+                <!-- HEADER -->
+                <tr>
+                    <td colspan="6" align="center" style="font-weight:bold; border-bottom:none;">
+                        Republic of the Philippines<br>
+                        POSITION DESCRIPTION FORM<br>
+                        DBM-CSC Form No. 1<br>
+                        <span style="font-size:10px;">(Revised Version No. 1, s. 2017)</span>
+                    </td>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">
+                        1. POSITION TITLE (as approved by authorized agency)<br>
+                        <b>VERITATIS UT ERROR B</b>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="6" style="border-top:none;"></td>
+                    <td colspan="6" style="background-color:#d9d9d9;">3. SALARY GRADE</td>
+                        <td>Ipsum ut est vitae </td>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="12" style="font-weight:bold; background-color:#d9d9d9;">
+                        4. FOR LOCAL GOVERNMENT POSITION, ENUMERATE GOVERNMENTAL UNIT AND CLASS
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="4" style="border-right:none;">
+                        <span style="font-family:dejavusans;">☐</span> Province<br>
+                        <span style="font-family:dejavusans;">☐</span> City<br>
+                        <span style="font-family:dejavusans;">☐</span> Municipality
+                    </td>
+                    <td colspan="4" style="border-left:none; border-right:none;">
+                        <span style="font-family:dejavusans;">☐</span> 1st Class<br>
+                        <span style="font-family:dejavusans;">☐</span> 2nd Class<br>
+                        <span style="font-family:dejavusans;">☑</span> 3rd Class<br>
+                        <span style="font-family:dejavusans;">☐</span> 4th Class
+                    </td>
+                    <td colspan="4" style="border-left:none;">
+                        <span style="font-family:dejavusans;">☐</span> 5th Class<br>
+                        <span style="font-family:dejavusans;">☐</span> 6th Class<br>
+                        <span style="font-family:dejavusans;">☑</span> Special
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">5. DEPARTMENT, CORPORATION OR AGENCY/LOCAL GOVERNMENT<br>
+                        <b>UT AD CUM PERSPICIAT</b>
+                    </td>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">6. BUREAU OR OFFICE<br>
+                        Quis et molestias qu
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">7. DEPARTMENT / BRANCH / DIVISION<br>
+                        Consequatur expedita
+                    </td>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">8. WORKSTATION / PLACE OF WORK<br>
+                        Sunt enim similique 
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">9. PRESENT APPROP ACT<br>
+                        Est qui in ducimus 
+                    </td>
+                    <td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">10. PREVIOUS APPROP ACT<br>
+                        Aut id illo dolore a
+                    </td>
+                    <td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">11. SALARY AUTHORIZED<br>
+                        Saepe tempore exerc
+                    </td>
+                    <td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">12. OTHER COMPENSATION<br>
+                        Tenetur nihil aut re
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">13. POSITION TITLE OF IMMEDIATE SUPERVISOR<br>
+                        Qui velit est libero
+                    </td>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">14. POSITION TITLE OF NEXT HIGHER SUPERVISOR<br>
+                        Id temporibus possim
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="12" style="font-weight:bold; background-color:#d9d9d9;">
+                        15. POSITION TITLE, AND ITEM OF THOSE DIRECTLY SUPERVISED<br>
+                        <span style="font-size:8px;">(if more than seven (7) list only by their item numbers and titles)</span>
+                    </td>
+                </tr>
+
+                <tr align="center" style="font-weight:bold;">
+                    <td colspan="6">POSITION TITLE</td>
+                    <td colspan="6">ITEM NUMBER</td>
+                </tr><tr><td colspan="6">Nulla ut consequuntu</td><td colspan="6">Nulla omnis dolor pr</td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr>
+            <tr>
+                <td colspan="12">16. MACHINE, EQUIPMENT, TOOLS, ETC., USED REGULARLY<br>
+                    Minim corrupti ut s
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="12" style="font-weight:bold; background-color:#d9d9d9;">17. CONTACTS / CLIENTS / STAKEHOLDERS</td>
+            </tr>
+
+            <tr>
+                <td colspan="6">
+                    <b>17a. Internal</b><br>
+                    Occasional: <span style="font-family:dejavusans;">☐</span> Executive/Managerial <span style="font-family:dejavusans;">☐</span> Supervisors <span style="font-family:dejavusans;">☐</span> Staff<br>
+                    Frequent: <span style="font-family:dejavusans;">☑</span> Executive/Managerial <span style="font-family:dejavusans;">☐</span> Supervisors <span style="font-family:dejavusans;">☐</span> Staff
+
+                </td>
+                <td colspan="6">
+                    <b>17b. External</b><br>
+                   Occasional: <span style="font-family:dejavusans;">☑</span> Public <span style="font-family:dejavusans;">☐</span> Agencies ☐ Others<br>
+                    Frequent: <span style="font-family:dejavusans;">☑</span> Public <span style="font-family:dejavusans;">☐</span> Agencies ☐ Others
+
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="12">18. WORKING CONDITION: <span style="font-family:dejavusans;">☑</span> Office Work <span style="font-family:dejavusans;">☑</span> Field Work 
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="12">19. BRIEF DESCRIPTION OF THE GENERAL FUNCTION OF THE UNIT OR SECTION<br>
+                    Impedit duis fugiat
+                </td>
+            </tr>
+
+            </table>
+            <div align="right" style="font-size:7pt;">Page 1 of 2</div>', true, false, true, false, '')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PdfController->generate()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(68): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-03 08:20:33 --> ParseError: syntax error, unexpected single-quoted string ") ?></b>"
+[Method: POST, Route: pdf/generate]
+in APPPATH\Controllers\PdfController.php on line 130.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\app\\Controllers\\PdfController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\PdfController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\PdfController')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\PdfController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(68): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
+CRITICAL - 2026-02-03 08:45:45 --> ErrorException: Undefined variable $cellspacingx
+[Method: POST, Route: pdf/generate]
+in VENDORPATH\tecnickcom\tcpdf\tcpdf.php on line 18380.
+ 1 VENDORPATH\tecnickcom\tcpdf\tcpdf.php(18380): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cellspacingx', 'C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\vendor\\tecnickcom\\tcpdf\\tcpdf.php', 18380)
+ 2 APPPATH\Controllers\PdfController.php(198): TCPDF->writeHTML('
+            <table border="0" cellpadding="4" cellspacing="0" width="100%">
+                <!-- HEADER -->
+                <tr>
+                    <td colspan="6" align="center" style="font-family: Times;" border="0">
+                        <!-- Republic of the Philippines -->
+                        <span style="font-size: 9px; font-weight: bold;">Republic of the Philippines</span><br>
+
+                        <!-- POSITION DESCRIPTION FORM -->
+                        <span style="font-size: 10px; font-weight: bold;">POSITION DESCRIPTION FORM</span><br>
+
+                        <!-- DBM-CSC Form No. 1 -->
+                        <span style="font-size: 9px; font-weight: bold;">DBM-CSC Form No. 1</span><br>
+
+                        <!-- Revised Version -->
+                        <span style="font-size: 6px; font-weight: bold;">(Revised Version No. 1, s. 2017)</span>
+                    </td>
+                    <td colspan="6" border="LTRB" style="font-weight: bold; background-color:#d9d9d9;">
+        1. POSITION TITLE (as approved by authorized agency) with parenthetical title
+    </td>
+
+                <tr>
+                    <td colspan="6" border="0"></td>
+                    <td colspan="6" style="font-weight: bold;">
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="6" style="border-top:none;"></td>
+                    <td colspan="6" style="font-weight: bold; background-color:#d9d9d9;">3. SALARY GRADE<br>
+                        <b></b>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="12" style="font-weight:bold; background-color:#d9d9d9;">
+                        4. FOR LOCAL GOVERNMENT POSITION, ENUMERATE GOVERNMENTAL UNIT AND CLASS
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="4" style="border-right:none;">
+                        <span style="font-family:dejavusans;">☐</span> Province<br>
+                        <span style="font-family:dejavusans;">☐</span> City<br>
+                        <span style="font-family:dejavusans;">☐</span> Municipality
+                    </td>
+                    <td colspan="4" style="border-left:none; border-right:none;">
+                        <span style="font-family:dejavusans;">☐</span> 1st Class<br>
+                        <span style="font-family:dejavusans;">☐</span> 2nd Class<br>
+                        <span style="font-family:dejavusans;">☐</span> 3rd Class<br>
+                        <span style="font-family:dejavusans;">☐</span> 4th Class
+                    </td>
+                    <td colspan="4" style="border-left:none;">
+                        <span style="font-family:dejavusans;">☐</span> 5th Class<br>
+                        <span style="font-family:dejavusans;">☐</span> 6th Class<br>
+                        <span style="font-family:dejavusans;">☐</span> Special
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">5. DEPARTMENT, CORPORATION OR AGENCY/LOCAL GOVERNMENT<br>
+                        <b></b>
+                    </td>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">6. BUREAU OR OFFICE<br>
+                        
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">7. DEPARTMENT / BRANCH / DIVISION<br>
+                        
+                    </td>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">8. WORKSTATION / PLACE OF WORK<br>
+                        
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">9. PRESENT APPROP ACT<br>
+                        
+                    </td>
+                    <td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">10. PREVIOUS APPROP ACT<br>
+                        
+                    </td>
+                    <td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">11. SALARY AUTHORIZED<br>
+                        
+                    </td>
+                    <td colspan="3" style="font-weight:bold; background-color:#d9d9d9;">12. OTHER COMPENSATION<br>
+                        
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">13. POSITION TITLE OF IMMEDIATE SUPERVISOR<br>
+                        
+                    </td>
+                    <td colspan="6" style="font-weight:bold; background-color:#d9d9d9;">14. POSITION TITLE OF NEXT HIGHER SUPERVISOR<br>
+                        
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="12" style="font-weight:bold; background-color:#d9d9d9;">
+                        15. POSITION TITLE, AND ITEM OF THOSE DIRECTLY SUPERVISED<br>
+                        <span style="font-size:8px;">(if more than seven (7) list only by their item numbers and titles)</span>
+                    </td>
+                </tr>
+
+                <tr align="center" style="font-weight:bold;">
+                    <td colspan="6">POSITION TITLE</td>
+                    <td colspan="6">ITEM NUMBER</td>
+                </tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr><tr><td colspan="6"></td><td colspan="6"></td></tr>
+            <tr>
+                <td colspan="12">16. MACHINE, EQUIPMENT, TOOLS, ETC., USED REGULARLY<br>
+                    
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="12" style="font-weight:bold; background-color:#d9d9d9;">17. CONTACTS / CLIENTS / STAKEHOLDERS</td>
+            </tr>
+
+            <tr>
+                <td colspan="6">
+                    <b>17a. Internal</b><br>
+                    Occasional: <span style="font-family:dejavusans;">☐</span> Executive/Managerial <span style="font-family:dejavusans;">☐</span> Supervisors <span style="font-family:dejavusans;">☐</span> Staff<br>
+                    Frequent: <span style="font-family:dejavusans;">☐</span> Executive/Managerial <span style="font-family:dejavusans;">☐</span> Supervisors <span style="font-family:dejavusans;">☐</span> Staff
+
+                </td>
+                <td colspan="6">
+                    <b>17b. External</b><br>
+                   Occasional: <span style="font-family:dejavusans;">☐</span> Public <span style="font-family:dejavusans;">☐</span> Agencies ☐ Others<br>
+                    Frequent: <span style="font-family:dejavusans;">☐</span> Public <span style="font-family:dejavusans;">☐</span> Agencies ☐ Others
+
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="12">18. WORKING CONDITION: <span style="font-family:dejavusans;">☐</span> Office Work <span style="font-family:dejavusans;">☐</span> Field Work 
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="12">19. BRIEF DESCRIPTION OF THE GENERAL FUNCTION OF THE UNIT OR SECTION<br>
+                    
+                </td>
+            </tr>
+
+            </table>
+            <div align="right" style="font-size:7pt;">Page 1 of 2</div>', true, false, true, false, '')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PdfController->generate()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(68): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\OJT\\Desktop\\ojt folder\\Position_Description_Form\\backend\\public\\index.php')
