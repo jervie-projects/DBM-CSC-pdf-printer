@@ -1,7 +1,7 @@
 # Preview
 
 <div align="center">
-  <img width="800" alt="DBMC Position Description Form Preview" src="<img width="3792" height="1755" alt="image" src="https://github.com/user-attachments/assets/6f763e8e-cb51-40c7-97ea-73441a7a2d2b" />
+  <img width="800" alt="DBMC Position Description Form Preview" src="<img width="3792" height="1755" alt="image" src="" />
 " />
 </div>
 
@@ -42,11 +42,12 @@ It streamlines the process of creating standardized and professionally formatted
 
 ## Technologies Used
 
-- **Language:** C#  
-- **Framework:** .NET (Windows Forms / WPF / ASP.NET depending on build)  
-- **IDE:** Visual Studio  
-- **PDF Library:** (e.g., iTextSharp / QuestPDF / etc.)
-
+- **Backend:** PHP (CodeIgniter 4)  
+- **Frontend:** Vue.js  
+- **Styling:** Tailwind CSS  
+- **PDF Generation:** TCPDF  
+- **IDE:** Visual Studio Code
+ 
 ---
 
 ## Purpose
