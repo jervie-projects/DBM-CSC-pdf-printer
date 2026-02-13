@@ -34,8 +34,7 @@ It streamlines the process of creating standardized and professionally formatted
 - Real-time form input handling  
 - Automatic PDF generation  
 - PDF preview before download  
-- Downloadable finalized document  
-- Field validation to ensure complete submissions  
+- Downloadable finalized document
 - Clean and user-friendly interface  
 
 ---
@@ -57,17 +56,7 @@ This project was developed to:
 - Replace manual paper-based position description forms  
 - Improve efficiency in HR documentation  
 - Ensure standardized formatting across all roles  
-- Demonstrate form handling, validation, and PDF generation in C#  
-
----
-
-## Key Concepts Demonstrated
-
-- Form data collection and validation  
-- Event-driven programming  
-- Dynamic PDF generation  
-- File handling and download functionality  
-- Structured document formatting  
+- Demonstrate form handling, and PDF generation  
 
 ---
 
